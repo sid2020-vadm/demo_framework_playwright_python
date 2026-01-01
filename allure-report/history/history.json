@@ -1,0 +1,1 @@
+{"bc0571d77419ce711f50b52b2cc44204":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"f0833b8f085127e5","reportUrl":"http://localhost:8080/job/demo_playwright_python_local/3/allure/#testresult/f0833b8f085127e5","status":"passed","time":{"start":1767271715960,"stop":1767271717988,"duration":2028}}]}}
